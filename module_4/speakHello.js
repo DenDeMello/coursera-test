@@ -27,5 +27,4 @@
   // xxxx.xxxx = helloSpeaker;
 
   window.helloSpeaker = helloSpeaker;
-
 })(window);
